@@ -23,7 +23,7 @@ flex-wrap: wrap;
 
 .bird {
     width: 300px;
-    height: 300px;
+    height: auto;
     border: thick double black;
     background-color: white;
     border-width: 1em;
@@ -48,7 +48,7 @@ margin-bottom: 5rem;
 
 .et {
     width: 300px;
-    height: 300px;
+    height: auto;
     border: thick double black;
     background-color: white;
     border-width: 1em;
@@ -65,7 +65,7 @@ margin-bottom: 5rem;
 
 .pix {
     width: 300px;
-    height: 300px;
+    height: auto;
     border: thick double black;
     background-color: white;
     border-width: 1em;
