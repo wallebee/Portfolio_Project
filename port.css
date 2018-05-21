@@ -9,16 +9,19 @@ body {
     text-align: right;
     width: 100%;
 }
+
+
 @media screen and (max-width: 400px) {
     .logo {
         width: 100%;
+        align-items: center;
     }
 }
 
 .projects {
     text-align: center;
-display: flex;
-flex-wrap: wrap;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .bird {
@@ -29,13 +32,16 @@ flex-wrap: wrap;
     border-width: 1em;
 }
 
+
 body {
     background-color: black;
     color: white;
 }
+
+
 .bio {
-margin: auto;
-margin-bottom: 5rem;
+     margin: auto;
+     margin-bottom: 5rem;
 }
 
 .Art {
@@ -70,3 +76,4 @@ margin-bottom: 5rem;
     background-color: white;
     border-width: 1em;
 }
+
