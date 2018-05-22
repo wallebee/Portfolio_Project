@@ -5,6 +5,7 @@ body {
     font-family: Georgia, serif;
 }
 
+
 .logo {
     text-align: right;
     width: 100%;
@@ -18,11 +19,13 @@ body {
     }
 }
 
+
 .projects {
     text-align: center;
     display: flex;
     flex-wrap: wrap;
 }
+
 
 .bird {
     width: 300px;
@@ -44,13 +47,16 @@ body {
      margin-bottom: 5rem;
 }
 
+
 .Art {
     margin: auto;
 }
 
+
 .till {
     margin: auto;
 }
+
 
 .et {
     width: 300px;
@@ -60,14 +66,17 @@ body {
     border-width: 1em;
 }
 
+
 .Card {
     margin: auto;
 }
+
 
 .top {
     text-align: center;
     margin-bottom: 5rem;
 }
+
 
 .pix {
     width: 300px;
